@@ -1,2 +1,2 @@
 # ufo-tofu.github.io
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](toast logo.png)
